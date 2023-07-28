@@ -17,7 +17,7 @@ const AppAuthenticated = () => {
 						<a
 							href="https://adelaja-ayomide.vercel.app"
 							className="animate-pulse text-sm text-bold text-gray-900">
-							Duicy
+							Ayomide Adelaja
 						</a>
 					</h1>
 				</Toolbar>
